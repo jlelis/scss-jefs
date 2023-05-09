@@ -2,7 +2,7 @@
 
 - galeria feita com Sass
 
-- acessar o site scss: 
+- acessar o site scss: https://sass-lang.com/
 - instalar via pacote npm: npm install -g sass
 - digite o comando: sass --version
 - extenções utilizadas no vscode: live server e Sass
