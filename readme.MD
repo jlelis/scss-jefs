@@ -1,7 +1,7 @@
 # Scss
 
 - galeria feita com Sass
-- 
+
 - acessar o site scss: 
 - instalar via pacote npm: npm install -g sass
 - digite o comando: sass --version
@@ -10,3 +10,5 @@
 - criar uma pasta sass, dentro dela criar um arquivo styles.sass,_variables.sass,_mixins.sass
 - no terminal: sass --watch e destino do sass:nome da pasta destino, ex: sass/styles.sass:css/styles.css
 - executar o comando para o mapeamento das alteraçõesc durante o desenvolvimento: sass --watch  sass/styles.sass:css/styles.css
+
+![alt]([https://](https://github.com/jlelis/scss-jefs/blob/master/img/galeria.jpg))
